@@ -7,3 +7,6 @@ Resources:
 https://www.w3schools.com/js/
 https://www.phind.com/search?home=true
 
+<img width="1710" alt="image" src="https://github.com/mylesjav/pwgenerator/assets/152746324/61f13cae-b57f-4182-bf03-9e7c1ecb34f7">
+
+
